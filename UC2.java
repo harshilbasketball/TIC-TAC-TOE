@@ -1,10 +1,6 @@
 import java.util.Random;
 
-<<<<<<< HEAD
 public class UC2 {
-=======
-public class TicTacToe {
->>>>>>> 47f1fa88de2c04d8a82fa40ea06c2831f4d3c684
 
     static boolean isHumanTurn;
     static char humanSymbol;
